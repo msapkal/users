@@ -1,50 +1,37 @@
-[
-    {
-        "id": 1,
-        "name": "Leanne Graham",
-        "email": "Sincere@april.biz",
-        "metaInfo": {
-            "type": "admin"
-        }
-    },
-    {
-        "id": 2,
-        "name": "Ervin Howell",
-        "email": "Shanna@melissa.tv",
-        "metaInfo": {
-            "type": "admin"
-        }
-    },
-    {
-        "id": 3,
-        "name": "Clementine Bauch",
-        "email": "Nathan@yesenia.net",
-        "metaInfo": {
-            "type": "user"
-        }
-    },
-    {
-        "id": 4,
-        "name": "Patricia Lebsack",
-        "email": "Julianne.OConner@kory.org",
-        "metaInfo": {
-            "type": "user"
-        }
-    },
-    {
-        "id": 5,
-        "name": "Chelsey Dietrich",
-        "email": "Lucio_Hettinger@annie.ca",
-        "metaInfo": {
-            "type": "user"
-        }
-    },
-    {
-        "id": 5,
-        "name": "Chelsey Dietrich",
-        "email": "Lucio_Hettinger@annie.ca",
-        "metaInfo": {
-            "type": "user"
-        }
+{
+  "2d_polyline": {
+    "Car": {
+      "Car:1": {
+        "label_type": "2d_polyline",
+        "label_id": "Car:1",
+        "uuid": "52befb30-affc-11ec-a7f8-a5b9ffb260e1"
+      },
+      "Car:2": {
+        "label_type": "2d_polyline",
+        "label_id": "Car:2",
+        "uuid": "54439f60-affc-11ec-a7f8-a5b9ffb260e1"
+      }
     }
-]
+  },
+  "2d_bbox": {
+    "Car": {
+      "Car:3": {
+        "label_type": "2d_bbox",
+        "label_id": "Car:3",
+        "uuid": "56befb30-affc-11ec-a7f8-a5b9ffb260e1"
+      },
+      "Car:4": {
+        "label_type": "2d_bbox",
+        "label_id": "Car:4",
+        "uuid": "57439f60-affc-11ec-a7f8-a5b9ffb260e1"
+      }
+    },
+    "Bus": {
+      "Bus:1": {
+        "label_type": "2d_bbox",
+        "label_id": "Bus:1",
+        "Uuid": "59439f60-affc-11ec-a7f8-a5b9ffb260e1"
+      }
+    }
+  }
+}
