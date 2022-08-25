@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "metaInfo": {
+            "type": "admin"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "metaInfo": {
+            "type": "admin"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "metaInfo": {
+            "type": "user"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "metaInfo": {
+            "type": "user"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "metaInfo": {
+            "type": "user"
+        }
+    }
+]
